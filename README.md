@@ -2,7 +2,7 @@
 
 A frontend for a microblog on the blockchain powered by BlockVigil.com. It uses the blog theme from Start Bootstrap.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SwaroopH/microblog/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harshyu/microblog/tree/master)
 
 *You will need the microblog contract address generated from BlockVigil.com to deploy this on Heroku/Github pages.*
 
